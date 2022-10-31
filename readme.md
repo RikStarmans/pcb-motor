@@ -1,6 +1,8 @@
 # PCB Motors
 
-Packages to generate a PCB motor, Carl Bugeja style, for KiCad using Python
+Packages to generate a PCB motor, Carl Bugeja style, for KiCad using Python.
+An alternative plugin is [here](https://github.com/atomic14/kicad-coil-plugins). 
+Trapezoids are most likely better, and a more popular choice. This is not provided by this script at the moment.
 
 ## History
 
@@ -64,7 +66,7 @@ The In1.Cu layer is shown below. The style of these connections is named "Carl B
 A voltage of 5V was applied over the board. The current reached 0.7 amps. Over time the temperature of the
 board stabilized at 60 degrees Celcius.
 
-[![Video working board](https://youtu.be/r3wv7XpXPck "Video working board")
+[![Watch the video](https://img.youtube.com/vi/r3wv7XpXPck/default.jpg)](https://youtu.be/r3wv7XpXPck)
 
 ## Control software
 
